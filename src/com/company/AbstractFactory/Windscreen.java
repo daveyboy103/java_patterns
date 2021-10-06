@@ -5,3 +5,4 @@ public class Windscreen extends VehiclePart {
         super.setName("Windscreen");
     }
 }
+
